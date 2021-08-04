@@ -1,3 +1,5 @@
+#unsolved, 이분탐색 활용해서 풀기
+
 N = int(input())
 nData = list(map(int, input().split()))
 nData.sort()
