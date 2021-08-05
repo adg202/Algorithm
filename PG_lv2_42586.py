@@ -1,3 +1,4 @@
+#기능개발
 def solution(progresses, speeds):
     answer = []
     deploy = 0
