@@ -1,3 +1,5 @@
+#날짜 계산
+
 E, S, M = map(int, input().split())
 
 n = 1
