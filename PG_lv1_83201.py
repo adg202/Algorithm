@@ -17,7 +17,7 @@ def solution(scores):
     answer = ''
 
     for i in range(len(scores)):
-        #학생이 받은 점수가 들어갈 리스트 생성
+        #학생이 받은 점수가 들어갈 리스트
         tmp = []
 
         for j in range(len(scores)):
